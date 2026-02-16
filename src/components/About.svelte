@@ -36,7 +36,7 @@
   >
     <div class="font-bold text-4xl mobile:text-3xl">Get to know me</div>
     <div class="font-black text-7xl py-8 mobile:text-4xl">
-      I CREATE INTERACTIVE WEB DESIGN
+      I SUPPORT SMART FINANCIAL DECISIONS
     </div>
     <div
       class="py-12 font-semibold text-2xl p-page text-justify mobile:py-3 mobile:text-lg"
