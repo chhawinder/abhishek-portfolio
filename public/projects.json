@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Apna Maindan",
+    "technology": "Frontend project",
+    "highlights": [
+      "Apna Maidan is a website that provides insights into all the games available in a campus area",
+      "Apna Maidan fetched best ui prize in Hackmol 2.0",
+      "TypeScript was used for strict typing and ensuring bug free production environment",
+      "Firebase was used for implementing Authentication system and an Admin Panel was provided"
+    ],
+    "source": {
+      "type": "github",
+      "url": "https://github.com/chhawinder/Apna-maidaan_1"
+    },
+    "demo": {
+      "type": "devfolio",
+      "url": "https://devfolio.co/projects/trustpoint-fca1",
+      "tooltip": "view on Devfolio"
+    },
+    "gallery": [
+      "/screens/laptop/ApnaMaidan/0.jpg",
+      "/screens/laptop/ApnaMaidan/1.jpg",
+      "/screens/laptop/ApnaMaidan/2.jpg",
+      "/screens/laptop/ApnaMaidan/3.jpg"
+  
+    ]
+  },
+  {
+    "name": "Help right",
+    "technology": "MERN Stack webapp",
+    "highlights": [
+      "ShantiTrip is a full fledged tours and travel, trip booking webapp",
+      "React with TailwindCSS was used for developing frontend and Express with Prisma for backend"
+      
+    ],
+    "source": {
+      "type": "github",
+      "url": "https://github.com/chhawinder/HelpRight_main2"
+    },
+    "demo": {
+      "type": "website",
+      "url": "https://chhawinder.github.io/HelpRight_main2/",
+      "tooltip": "view the live site"
+    },
+    "gallery": [
+      "/screens/laptop/HelpRight/0.jpg",
+      "/screens/laptop/shantitrip/1.jpg",
+      "/screens/laptop/shantitrip/2.jpg"
+    ]
+  }
+  
+  
+]
