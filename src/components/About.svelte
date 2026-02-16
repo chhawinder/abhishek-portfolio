@@ -41,12 +41,10 @@
     <div
       class="py-12 font-semibold text-2xl p-page text-justify mobile:py-3 mobile:text-lg"
     >
-      A full-stack developer, having a strong understanding of Python and web
-      development. With a long-standing passion for programming and a commitment
-      to staying current with the latest technologies, I strive to deliver
-      efficient and high-quality solutions to clients. I approach each project
-      with humility and dedication, always eager to learn and grow as a
-      developer.
+      MBA (Finance & HR) student with SEBI Investor Certification and IIMB finance certification, client
+servicing, documentation, and compliance fundamentals. Skilled in supporting advisory operations, preparing financial
+data, managing records, and coordinating workflows with high accuracy. Seeking a Financial Advisory Support Analyst
+role to assist advisors in delivering an exceptional client experience.
     </div>
   </div>
 
