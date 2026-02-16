@@ -47,9 +47,9 @@
   <span style="margin-left: 170px;">I'm a</span > 
   <CyclingText
     cycle={[
-      "Passionate Programmer",
-      "UI/UX Designer",
-      "Web Developer",
+     "Financial Advisory Enthusiast",
+  "Client Service Professional",
+  "Finance & Compliance Learner",
     ]}
     color="random"
   />
