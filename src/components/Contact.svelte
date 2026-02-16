@@ -18,9 +18,9 @@
     <button
       class="bg-white text-black px-10 py-3 text-2xl"
       on:click={() => {
-        window.open("mailto:chhawinder.1465@gmail.com");
+        window.open("mailto:singhabhishek70007@gmail.com");
       }}
-      data-blobity-tooltip="chhawinder.1465@gmail.com">Mail Me</button
+      data-blobity-tooltip="singhabhishek70007@gmail.com">Mail Me</button
     >
   </div>
 </section>
